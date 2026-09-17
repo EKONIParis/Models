@@ -1,5 +1,5 @@
 Script de démarrage automatique pour reconstruire l'environnement ComfyUI de
-production d'Inès (modèles, LoRA, workflow) sur une nouvelle instance Vast.ai,
+production  sur une nouvelle instance Vast.ai,
 sans manipulation manuelle en terminal.
 
 ## Contenu
